@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\development-ide\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/baseadapter" />
+            <option value="$PROJECT_DIR$/drawerlayout" />
+            <option value="$PROJECT_DIR$/expandable_listview" />
+            <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/fragment2" />
+            <option value="$PROJECT_DIR$/gridview" />
+            <option value="$PROJECT_DIR$/gridview_baseadapter" />
+            <option value="$PROJECT_DIR$/listview" />
+            <option value="$PROJECT_DIR$/listview_java" />
+            <option value="$PROJECT_DIR$/listview_simpleadapter" />
+            <option value="$PROJECT_DIR$/menu" />
+            <option value="$PROJECT_DIR$/menu2" />
+            <option value="$PROJECT_DIR$/popwindow" />
+            <option value="$PROJECT_DIR$/shape" />
+            <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/spinner_java" />
+            <option value="$PROJECT_DIR$/viewpager" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

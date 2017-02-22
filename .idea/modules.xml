@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UI_Demo.iml" filepath="$PROJECT_DIR$/UI_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseadapter/baseadapter.iml" filepath="$PROJECT_DIR$/baseadapter/baseadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawerlayout/drawerlayout.iml" filepath="$PROJECT_DIR$/drawerlayout/drawerlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandable_listview/expandable_listview.iml" filepath="$PROJECT_DIR$/expandable_listview/expandable_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment2/fragment2.iml" filepath="$PROJECT_DIR$/fragment2/fragment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridview/gridview.iml" filepath="$PROJECT_DIR$/gridview/gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridview_baseadapter/gridview_baseadapter.iml" filepath="$PROJECT_DIR$/gridview_baseadapter/gridview_baseadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview_java/listview_java.iml" filepath="$PROJECT_DIR$/listview_java/listview_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview_simpleadapter/listview_simpleadapter.iml" filepath="$PROJECT_DIR$/listview_simpleadapter/listview_simpleadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu/menu.iml" filepath="$PROJECT_DIR$/menu/menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menu2/menu2.iml" filepath="$PROJECT_DIR$/menu2/menu2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popwindow/popwindow.iml" filepath="$PROJECT_DIR$/popwindow/popwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shape/shape.iml" filepath="$PROJECT_DIR$/shape/shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinner/spinner.iml" filepath="$PROJECT_DIR$/spinner/spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinner_java/spinner_java.iml" filepath="$PROJECT_DIR$/spinner_java/spinner_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
+    </modules>
+  </component>
+</project>

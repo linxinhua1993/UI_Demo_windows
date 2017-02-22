@@ -1,0 +1,1 @@
+include ':spinner', ':spinner_java', ':listview', ':listview_java', ':listview_simpleadapter', ':baseadapter', ':gridview', ':gridview_baseadapter', ':expandable_listview', ':viewpager', ':menu', ':menu2', ':popwindow', ':fragment', ':fragment2', ':drawerlayout', ':shape'
